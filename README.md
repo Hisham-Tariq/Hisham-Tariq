@@ -8,7 +8,7 @@ I am a flutter developer with 3 years of experience. I have a wide experience in
 
 * 🌍  I'm based in Gujrat, Pakistan
 * ✉️  You can contact me at [hishamtariq.hi@gmail.com](mailto:hishamtariq.hi@gmail.com)
-* 🚀  I'm currently working on [Intelligent Food Delivery App](http://github.com/Hisham-Tariq)
+[comment]: <> * 🚀  I'm currently working on [Intelligent Food Delivery App](http://github.com/Hisham-Tariq)
 * 🧠  I'm learning Laravel
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I love developing beautiful and attractive mobile applications
